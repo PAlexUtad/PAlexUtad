@@ -53,5 +53,3 @@ From graphic novel illustrator to indie gameplay dev, I bridge narrative-driven 
 [LinkedIn – Alexandre Pages](https://ch.linkedin.com/in/alexandrepages-ch)  
 [ArtStation – Alexandre Pages](https://www.artstation.com/apages)
 
-> Let’s build worlds that feel as alive as they look.
-
