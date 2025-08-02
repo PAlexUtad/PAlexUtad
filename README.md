@@ -2,7 +2,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%205-blue?style=flat-square&logo=unrealengine)
 ![Game Dev](https://img.shields.io/badge/Role-Game%20Dev%20%26%20Artist-green?style=flat-square)
 
-<h1 align="center">👋 Hi, I'm Alexandre Pages</h1>
+<h1 align="center">👋 Hi, I'm Alex</h1>
 <p align="center">
   Aspiring Game developer and storyteller from Switzerland and currently based in Madrid 🏔️<br/>
   Passionate about creating immersive gameplay systems and stylized visuals in Unreal Engine.<br/>
