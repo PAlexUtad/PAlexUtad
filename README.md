@@ -46,7 +46,7 @@
 
 Before diving into game development, I studied **Physics at EPFL** in Switzerland, where I completed a master’s degree and contributed to research on quantum magnetism. I co-authored various scientific papers, such as [*Revisiting the magnetic and crystal structure of multiferroic KNiPO₄*](https://arxiv.org/abs/2207.06969).
 
-After graduating, I worked as an **IT consultant in private banking**, where I helped bridge technical and business needs—translating complex banking operations into efficient, automated systems.
+After graduating, I worked as an IT consultant in private banking, where I helped bridge technical and business needs.
 
 Currently, I’m studying **game programming at U-TAD in Madrid**, learning advanced C++ and Unreal Engine systems while immersing myself in Spanish and collaborative game dev culture.
 
