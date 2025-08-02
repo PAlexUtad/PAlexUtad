@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Alexandre Pages</h1>
 <p align="center">
-  Aspiring Game developer, FX/VFX artist, and storyteller from Switzerland and currently based in Madrid 🏔️<br/>
+  Aspiring Game develope and storyteller from Switzerland and currently based in Madrid 🏔️<br/>
   Passionate about creating immersive gameplay systems and stylized visuals in Unreal Engine.<br/>
   Exploring physics-based gameplay, horror narratives, and destructible worlds.
 </p>
