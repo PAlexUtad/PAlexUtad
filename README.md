@@ -51,7 +51,7 @@ After graduating, I worked as an **IT consultant in private banking**, where I h
 Currently, I’m studying **game programming at U-TAD in Madrid**, learning advanced C++ and Unreal Engine systems while immersing myself in Spanish and collaborative game dev culture.
 
 I’m entirely **self-taught in 3D modeling, texturing, VFX, and digital art**. Whether it’s building gameplay prototypes or stylizing a character rig, I love crafting every layer of a game from scratch.
----
+
 
 ## 📫 Connect With Me
 
