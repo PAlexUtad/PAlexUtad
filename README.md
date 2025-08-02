@@ -19,7 +19,7 @@
 | **[Physics Playground](https://github.com/PAlexUtad/UE5-Physics-Playground)** | UE5 prototype exploring physics interaction: pickup/throw mechanics, destructible props, sprint/stamina, ragdoll enemies, Chaos explosions. (University assignment) |
 | **[Modular Building Generator](https://github.com/PAlexUtad/UE5-Modular-Building-Generator)** | Procedural building system in C++ for UE5. Features instanced static mesh generation, balconies, doors, windows, roof logic, floor trims, and one-click actor conversion for level artists. |
 
-| 🎨 **Art Portfolio on ArtStation** | Sci-fi/fantasy concept art, 3D suits, VFX—see detailed renders and modular FX breakdowns. ([apages](https://www.artstation.com/apages)) |
+| 🎨 **Art Portfolio on ArtStation** | Sci-fi/fantasy concept art, 3D suits, and general chaos. ([apages](https://www.artstation.com/apages)) |
 
 ---
 
