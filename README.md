@@ -42,10 +42,15 @@
 
 ---
 
-## 🏆 Background
+## 🧠 Background
 
-From graphic novel illustrator to indie gameplay dev, I bridge narrative-driven concept art and gameplay prototyping. With experience building vertical slice demos, FX systems, and destructible environments, I'm looking to collaborate on stylized game projects or tools for interactive experiences.
+Before diving into game development, I studied **Physics at EPFL** in Switzerland, where I completed a master’s degree and contributed to **research on quantum magnetism**. I co-authored a [scientific paper on arXiv](https://arxiv.org/abs/2207.06969) exploring spin transport in strongly interacting systems.
 
+After graduating, I worked as an **IT consultant in private banking**, where I helped bridge technical and business needs—translating complex banking operations into efficient, automated systems.
+
+Currently, I’m studying **game programming at U-TAD in Madrid**, learning advanced C++ and Unreal Engine systems while immersing myself in Spanish and collaborative game dev culture.
+
+I’m entirely **self-taught in 3D modeling, texturing, VFX, and digital art**. Whether it’s building gameplay prototypes or stylizing a character rig, I love crafting every layer of a game from scratch.
 ---
 
 ## 📫 Connect With Me
