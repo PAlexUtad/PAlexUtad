@@ -1,6 +1,7 @@
 <!-- Shields -->
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%205-blue?style=flat-square&logo=unrealengine)
 ![Game Dev](https://img.shields.io/badge/Role-Game%20Dev%20%26%20Artist-green?style=flat-square)
+
 C++ • Unreal Engine 5 • Gameplay Systems • Tools Programming • Technical Art
 
 <h1 align="center">👋 Hi, I'm Alex</h1>
@@ -65,7 +66,7 @@ Before diving into game development, I studied **Physics at EPFL** in Switzerlan
 
 After graduating, I worked as an IT consultant in private banking, where I helped bridge technical and business needs.
 
-Currently, I’m studying **game programming at U-TAD in Madrid**, learning advanced C++ and Unreal Engine systems while immersing myself in Spanish and collaborative game dev culture.
+I have also studied **game programming at U-TAD in Madrid**, learning advanced C++ and Unreal Engine systems while immersing myself in Spanish and collaborative game dev culture.
 
 I’m entirely **self-taught in 3D modeling, texturing, VFX, and digital art**. Whether it’s building gameplay prototypes or stylizing a character rig, I love crafting every layer of a game from scratch.
 
