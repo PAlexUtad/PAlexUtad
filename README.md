@@ -11,20 +11,6 @@ C++ • Unreal Engine 5 • Gameplay Systems • Tools Programming • Technical
   Exploring physics-based gameplay, horror narratives, and destructible worlds.
 </p>
 
----
-## 🎮 Realtime Environment Work
-
-<p align="center">
-  <a href="https://www.artstation.com/artwork/rl8PbL">
-    <img src="https://github.com/user-attachments/assets/2d48b835-2127-45d8-bfc6-e4548e6d2f78" width="80%" />
-  </a>
-  <a href="https://www.artstation.com/artwork/6LJZz0">
-    <img src="https://github.com/user-attachments/assets/70eefde9-ffc5-4fa8-948b-4b74bbccf02d" width="80%" />
-  </a>
-</p>
-<p align="center">
-  <em>Click images for full breakdowns</em>
-</p>
 
 ---
 
@@ -44,6 +30,23 @@ C++ • Unreal Engine 5 • Gameplay Systems • Tools Programming • Technical
 | **[Horror Game Vertical Slice](https://github.com/PAlexUtad/UE5-ThirdPerson-Horror-VerticalSlice)** | Stylized third-person horror demo (Blueprint-only UE5). AI, combat, dialogue, fixed-camera puzzle, solo-made from comic pitch to playable slice. |
 
 | 🎨 **Art Portfolio on ArtStation** | Sci-fi/fantasy concept art, 3D suits, and general chaos. ([apages](https://www.artstation.com/apages)) |
+
+---
+## 🎮 Realtime Environment Work
+
+<p align="center">
+  <a href="https://www.artstation.com/artwork/rl8PbL">
+    <img src="https://github.com/user-attachments/assets/2d48b835-2127-45d8-bfc6-e4548e6d2f78" width="80%" />
+  </a>
+  <a href="https://www.artstation.com/artwork/6LJZz0">
+    <img src="https://github.com/user-attachments/assets/70eefde9-ffc5-4fa8-948b-4b74bbccf02d" width="80%" />
+  </a>
+</p>
+<p align="center">
+  <em>Click images for full breakdowns</em>
+</p>
+
+
 
 ---
 
