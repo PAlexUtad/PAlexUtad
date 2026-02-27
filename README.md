@@ -6,7 +6,7 @@ C++ • Unreal Engine 5 • Gameplay Systems • Tools Programming • Technical
 
 <h1 align="center">👋 Hi, I'm Alex</h1>
 <p align="center">
-  Aspiring Game developer and storyteller from Switzerland and currently based in Madrid 🏔️<br/>
+  Game developer and storyteller from Switzerland and currently based in Madrid 🏔️<br/>
   Passionate about creating immersive gameplay systems and stylized visuals in Unreal Engine.<br/>
   Exploring physics-based gameplay, horror narratives, and destructible worlds.
 </p>
@@ -25,6 +25,7 @@ C++ • Unreal Engine 5 • Gameplay Systems • Tools Programming • Technical
 
 | 🔧 Project | Description |
 |-----------|-------------|
+| **[Edge Debris Scatter Tool](https://github.com/PAlexUtad/UE5_EdgeDebrisScatter)** | UE5 editor tool for environment artists. Procedural edge-based debris scatter with density falloff and weighted mesh selection. |
 | **[Dynamic Cover System](https://github.com/PAlexUtad/UE5-FreeRoam-CoverSystem)** | A compact, highly customizable C++ Cover System Component for Unreal Engine 5. |
 | **[Modular Building Generator](https://github.com/PAlexUtad/UE5-Modular-Building-Generator)** | Procedural building system in C++ for UE5. Features instanced static mesh generation, balconies, doors, windows, roof logic, floor trims, and one-click actor conversion for level artists. |
 | **[Horror Game Vertical Slice](https://github.com/PAlexUtad/UE5-ThirdPerson-Horror-VerticalSlice)** | Stylized third-person horror demo (Blueprint-only UE5). AI, combat, dialogue, fixed-camera puzzle, solo-made from comic pitch to playable slice. |
