@@ -8,7 +8,7 @@ C++ • Python • Automation • AI Prototypes • Tools Programming • Unreal
 
 <h1 align="center">👋 Hi, I'm Alex</h1>
 <p align="center">
-  Software engineer and technical consultant from Switzerland, currently based in Madrid.<br/>
+  Software engineer and technical consultant from Switzerland.<br/>
   I build practical software tools, automation systems, and technical prototypes in C++ and Python.<br/>
   My background spans private banking technology, physics research, game development, and creative tooling.
 </p>
