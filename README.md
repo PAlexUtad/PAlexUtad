@@ -1,17 +1,23 @@
 <!-- Shields -->
+![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%205-blue?style=flat-square&logo=unrealengine)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square)
-![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-green?style=flat-square)
-![AI Projects](https://img.shields.io/badge/Focus-AI%20%26%20Automation-purple?style=flat-square)
+![Technical Art](https://img.shields.io/badge/Focus-Technical%20Art-purple?style=flat-square)
 
-C++ • Python • Automation • AI Prototypes • Tools Programming • Unreal Engine 5
+C++ • Unreal Engine 5 • Technical Art • Tools Programming • Gameplay Systems
 
 <h1 align="center">👋 Hi, I'm Alex</h1>
 <p align="center">
-  Software engineer and technical consultant from Switzerland.<br/>
-  I build practical software tools, automation systems, and technical prototypes in C++ and Python.<br/>
-  My background spans private banking technology, physics research, game development, and creative tooling.
+  Technical Artist & Gameplay Programmer from Switzerland, currently based in Madrid 🏔️<br/>
+  I build real-time systems, artist tools, and stylized visuals in Unreal Engine 5.<br/>
+  Focused on bridging engineering and art through practical, production-oriented tools.
 </p>
+
+---
+
+## 📸 Gameplay Demo
+
+[![Youtube Video](https://github.com/user-attachments/assets/2ad28f24-527d-433f-ba52-7293df12d6c4)](https://www.youtube.com/watch?v=5Yws84mrDJQ)
 
 ---
 
@@ -19,40 +25,66 @@ C++ • Python • Automation • AI Prototypes • Tools Programming • Unreal
 
 | 🔧 Project | Description |
 |-----------|-------------|
-| **[Job Application Assistant](https://github.com/PAlexUtad/Job-Application-Assistant)** | AI-assisted web application for analyzing job listings and helping tailor CVs and cover letters. Built with Flask, HTML/CSS/JS, structured prompting, and conversation history handling. |
-| **[CV Job Matcher](https://github.com/PAlexUtad/cv-job-matcher)** | Semantic retrieval prototype that ranks CV bullet points against a job description using embeddings and cosine similarity. |
-| **[Dynamic Cover System](https://github.com/PAlexUtad/UE5-FreeRoam-CoverSystem)** | Reusable C++ gameplay/system component with wall detection, automatic state handling, and edge/corner logic. |
-| **[Modular Building Generator](https://github.com/PAlexUtad/UE5-Modular-Building-Generator)** | Procedural building and tooling system in C++ with artist-friendly workflows and configurable generation logic. |
+| **[Dynamic Cover System](https://github.com/PAlexUtad/UE5-FreeRoam-CoverSystem)** | C++ gameplay system with spatial analysis (surface detection, edges, corners) designed for integration with animation and level design workflows. |
+| **[Modular Building Generator](https://github.com/PAlexUtad/UE5-Modular-Building-Generator)** | Procedural environment tool for UE5 with artist-friendly controls, enabling fast iteration and modular level construction. |
+| **[Horror Game Vertical Slice](https://github.com/PAlexUtad/UE5-ThirdPerson-Horror-VerticalSlice)** | Stylized third-person horror prototype (Blueprints). AI, combat, puzzles, and full gameplay loop built solo from concept to playable slice. |
+| **[Job Application Assistant](https://github.com/PAlexUtad/Job-Application-Assistant)** | AI-assisted web tool (Flask) with structured prompting and conversation handling. |
+| **[CV Job Matcher](https://github.com/PAlexUtad/cv-job-matcher)** | Embedding-based semantic matching system using cosine similarity for ranking CV content. |
 
 ---
 
-## 🧰 Skills & Tech
+## 🎮 Realtime Environment Work
 
-- *Languages:* C++, Python, SQL, Matlab
-- *Software Engineering:* automation, API integration, tooling, workflow design, debugging
-- *AI / Data:* LLM application prototypes, prompt design, semantic retrieval, embeddings, cosine similarity
-- *Systems:* production-oriented tools, reusable components, technical problem-solving
-- *Game / Realtime Tech:* Unreal Engine 5, gameplay systems, editor tooling, procedural generation
-- *Creative Tech:* 3D modeling, texturing, VFX, animation, stylized environment work
+<p align="center">
+  <a href="https://www.artstation.com/artwork/rl8PbL">
+    <img src="https://github.com/user-attachments/assets/2d48b835-2127-45d8-bfc6-e4548e6d2f78" width="80%" />
+  </a>
+  <a href="https://www.artstation.com/artwork/6LJZz0">
+    <img src="https://github.com/user-attachments/assets/70eefde9-ffc5-4fa8-948b-4b74bbccf02d" width="80%" />
+  </a>
+</p>
+<p align="center">
+  <em>Click images for full breakdowns</em>
+</p>
+
+---
+
+## 🎨 Technical Focus
+
+- Realtime rendering fundamentals (PBR, render pipeline, screen-space effects)
+- UE5 material system and shader logic (node-based + HLSL basics)
+- Procedural systems and tool development for artists
+- Geometry, transforms, and applied math (linear algebra, trigonometry)
+- Performance awareness (scalability, optimization mindset)
+
+---
+
+## 🛠️ Tools & Engineering
+
+- **Languages:** C++, Python, SQL, Matlab  
+- **Engine:** Unreal Engine 5 (gameplay systems, tools, editor workflows)  
+- **Workflow:** automation, API integration, debugging, pipeline thinking  
 
 ---
 
 ## 🧠 Background
 
-I studied *Physics at EPFL* in Switzerland, where I completed a master’s degree and contributed to research in quantum magnetism, including co-authoring scientific publications such as [Revisiting the magnetic and crystal structure of multiferroic KNiPO₄](https://arxiv.org/abs/2207.06969).
+I studied **Physics at EPFL** in Switzerland, completing a master’s degree and contributing to research in quantum magnetism, including:
 
-After that, I worked as an *IT consultant in private banking*, helping bridge technical and business needs in regulated environments. My work included automation, workflow-oriented problem solving, and coordination across technical and operational contexts.
+Revisiting the magnetic and crystal structure of multiferroic KNiPO₄  
+https://arxiv.org/abs/2207.06969  
 
-I later studied *game programming at U-TAD in Madrid*, where I deepened my C++ skills and built systems, tools, and technical prototypes in Unreal Engine.
+I later worked as an **IT consultant in private banking**, focusing on automation and workflow-driven problem solving across technical and operational teams.
 
-Alongside that, I’ve remained highly hands-on and self-directed: I enjoy building software from the ground up, whether that means backend logic, technical tools, AI prototypes, gameplay systems, or visual production workflows.
+After that, I studied **game programming at U-TAD in Madrid**, where I specialized in C++ and Unreal Engine systems.
+
+Alongside this, I’ve remained fully hands-on across the stack, from gameplay systems and tools to 3D art, lighting, and visual development.
 
 ---
 
-## 🎮 Selected Realtime / Creative Work
+## 🤝 Approach
 
-[Gameplay Demo](https://www.youtube.com/watch?v=5Yws84mrDJQ)  
-[ArtStation Portfolio](https://www.artstation.com/apages)
+I enjoy working between disciplines, building systems that are both technically solid and intuitive for artists and designers to use.
 
 ---
 
