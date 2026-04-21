@@ -4,13 +4,13 @@
 ![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square)
 ![Technical Art](https://img.shields.io/badge/Focus-Technical%20Art-purple?style=flat-square)
 
-C++ • Unreal Engine 5 • Technical Art • Tools Programming • Gameplay Systems
+C++ • Unreal Engine 5 • Technical Art • Tools Programming • Gameplay Systems • Rendering
 
 <h1 align="center">👋 Hi, I'm Alex</h1>
 <p align="center">
   Technical Artist & Gameplay Programmer from Switzerland, currently based in Madrid 🏔️<br/>
-  I build real-time systems, artist tools, and stylized visuals in Unreal Engine 5.<br/>
-  Focused on bridging engineering and art through practical, production-oriented tools.
+  I build real-time systems, stylized rendering, and artist-facing tools in Unreal Engine 5.<br/>
+  Focused on making visuals, gameplay, and tech work together — not separately.
 </p>
 
 ---
@@ -21,70 +21,67 @@ C++ • Unreal Engine 5 • Technical Art • Tools Programming • Gameplay Sys
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 Selected Work
 
 | 🔧 Project | Description |
 |-----------|-------------|
-| **[Dynamic Cover System](https://github.com/PAlexUtad/UE5-FreeRoam-CoverSystem)** | C++ gameplay system with spatial analysis (surface detection, edges, corners) designed for integration with animation and level design workflows. |
-| **[Modular Building Generator](https://github.com/PAlexUtad/UE5-Modular-Building-Generator)** | Procedural environment tool for UE5 with artist-friendly controls, enabling fast iteration and modular level construction. |
-| **[Horror Game Vertical Slice](https://github.com/PAlexUtad/UE5-ThirdPerson-Horror-VerticalSlice)** | Stylized UE5 horror vertical slice blending gameplay systems with shader-driven visuals, emissive effects, atmospheric lighting, and VFX. Built solo from concept to playable experience. |
-| **[Job Application Assistant](https://github.com/PAlexUtad/Job-Application-Assistant)** | AI-assisted web tool (Flask) with structured prompting and conversation handling. |
-| **[CV Job Matcher](https://github.com/PAlexUtad/cv-job-matcher)** | Embedding-based semantic matching system using cosine similarity for ranking CV content. |
+| **[Dynamic Cover System](https://github.com/PAlexUtad/UE5-FreeRoam-CoverSystem)** | C++ gameplay system built around spatial queries (surface detection, edges, corners). Designed to plug cleanly into animation and level design workflows. |
+| **[Modular Building Generator](https://github.com/PAlexUtad/UE5-Modular-Building-Generator)** | Procedural UE5 tool for environment creation with instanced meshes and artist-facing controls for fast iteration and layout generation. |
+| **[Horror Vertical Slice](https://github.com/PAlexUtad/UE5-ThirdPerson-Horror-VerticalSlice)** | Stylized UE5 vertical slice combining gameplay systems with shader-driven visuals, emissive effects, atmospheric lighting, and VFX integration. Built solo from concept to playable experience. |
 
 ---
 
-## 🎮 Realtime Environment Work
+## 🎨 Rendering & Technical Art (UE5 Horror Vertical Slice)
 
 <p align="center">
-  <a href="https://www.artstation.com/artwork/rl8PbL">
-    <img src="https://github.com/user-attachments/assets/2d48b835-2127-45d8-bfc6-e4548e6d2f78" width="80%" />
-  </a>
-  <a href="https://www.artstation.com/artwork/6LJZz0">
-    <img src="https://github.com/user-attachments/assets/70eefde9-ffc5-4fa8-948b-4b74bbccf02d" width="80%" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/dadb12b8-1108-4fab-b888-00c212bfed2f" width="70%" />
+  <img src="https://github.com/user-attachments/assets/a171af5f-aef5-430c-8125-dc16dc2d04cd" width="70%" />
 </p>
-<p align="center">
-  <em>Click images for full breakdowns</em>
-</p>
+
+What I handled on the visual / technical side:
+
+- Set up the overall lighting and mood (dark scenes, strong contrast, controlled visibility)
+- Tweaked materials and shading to get a more stylized look instead of default UE5 output
+- Used emissive materials for enemies and feedback (hits, states, visibility in darkness)
+- Built and integrated Niagara effects for combat and enemy behavior
+- Adjusted post-processing (color grading, exposure, contrast) to support the tone
+
+All of this was done alongside gameplay systems, so visuals and gameplay were developed together.
 
 ---
 
-## 🎨 Technical Focus
+## 🧰 Skills & Tech
 
-- Realtime rendering fundamentals (PBR, render pipeline, screen-space effects)
-- UE5 material system and shader logic (node-based + HLSL basics)
-- Procedural systems and tool development for artists
-- Geometry, transforms, and applied math (linear algebra, trigonometry)
-- Performance awareness (scalability, optimization mindset)
-
----
-
-## 🛠️ Tools & Engineering
-
-- **Languages:** C++, Python, SQL, Matlab  
-- **Engine:** Unreal Engine 5 (gameplay systems, tools, editor workflows)  
-- **Workflow:** automation, API integration, debugging, pipeline thinking  
+- **Unreal Engine 5:** C++, Blueprints, gameplay systems, editor workflows  
+- **Technical Art:** rendering pipeline, PBR vs stylized approaches, shader logic (UE materials), lighting  
+- **Tools Programming:** Python & C++ tools, workflow automation, pipeline thinking  
+- **Gameplay Systems:** physics, combat mechanics, AI behavior, interaction design  
+- **Realtime VFX:** Niagara, emissive effects, gameplay readability  
+- **3D Art Pipeline:** modeling, texturing, environment building, composition  
 
 ---
 
 ## 🧠 Background
 
-I studied **Physics at EPFL** in Switzerland, completing a master’s degree and contributing to research in quantum magnetism, including:
+I studied **Physics at EPFL**, working on quantum magnetism and co-authoring:
 
-Revisiting the magnetic and crystal structure of multiferroic KNiPO₄  
 https://arxiv.org/abs/2207.06969  
 
-I later worked as an **IT consultant in private banking**, focusing on automation and workflow-driven problem solving across technical and operational teams.
+Then worked as an **IT consultant in private banking**, focusing on automation and workflow systems.
 
-After that, I studied **game programming at U-TAD in Madrid**, where I specialized in C++ and Unreal Engine systems.
+Later studied **game programming at U-TAD**, specializing in C++ and Unreal Engine.
 
-Alongside this, I’ve remained fully hands-on across the stack, from gameplay systems and tools to 3D art, lighting, and visual development.
+Alongside that, I’ve remained hands-on across the full stack — from gameplay systems to rendering, VFX, and visual direction.
 
 ---
 
 ## 🤝 Approach
 
-I enjoy working between disciplines, building systems that are both technically solid and intuitive for artists and designers to use.
+I like working at the boundary between disciplines:
+
+- building tools artists actually want to use  
+- making rendering decisions that affect gameplay  
+- treating visuals as part of the system, not a layer on top  
 
 ---
 
