@@ -27,7 +27,7 @@ C++ • Unreal Engine 5 • Technical Art • Tools Programming • Gameplay Sys
 |-----------|-------------|
 | **[Dynamic Cover System](https://github.com/PAlexUtad/UE5-FreeRoam-CoverSystem)** | C++ gameplay system with spatial analysis (surface detection, edges, corners) designed for integration with animation and level design workflows. |
 | **[Modular Building Generator](https://github.com/PAlexUtad/UE5-Modular-Building-Generator)** | Procedural environment tool for UE5 with artist-friendly controls, enabling fast iteration and modular level construction. |
-| **[Horror Game Vertical Slice](https://github.com/PAlexUtad/UE5-ThirdPerson-Horror-VerticalSlice)** | Stylized third-person horror prototype (Blueprints). AI, combat, puzzles, and full gameplay loop built solo from concept to playable slice. |
+| **[Horror Game Vertical Slice](https://github.com/PAlexUtad/UE5-ThirdPerson-Horror-VerticalSlice)** | Stylized UE5 horror vertical slice blending gameplay systems with shader-driven visuals, emissive effects, atmospheric lighting, and VFX. Built solo from concept to playable experience. |
 | **[Job Application Assistant](https://github.com/PAlexUtad/Job-Application-Assistant)** | AI-assisted web tool (Flask) with structured prompting and conversation handling. |
 | **[CV Job Matcher](https://github.com/PAlexUtad/cv-job-matcher)** | Embedding-based semantic matching system using cosine similarity for ranking CV content. |
 
